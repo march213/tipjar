@@ -125,7 +125,7 @@ form {
   grid-template-columns: 1fr auto;
   align-items: center;
 
-  /* display: none; */
+  display: none;
   animation: fadein 0.4s 0.8s ease-in-out both;
 }
 
