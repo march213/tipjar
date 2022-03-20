@@ -14,7 +14,7 @@ async function send(tipValue) {
       params: [
         {
           from: accounts[0],
-          to: '0x84E9cd44080ce76DB8D1B1bEC91eb80af09ABFf4',
+          to: '0x261A93a996A307B9a4461de30410c2e9e8e6027e',
           value,
         },
       ],
